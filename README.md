@@ -1,5 +1,4 @@
 # Abhinav-Sanskrit-Adhigam
-      # sanskrit
 
 A new Flutter project.
 
