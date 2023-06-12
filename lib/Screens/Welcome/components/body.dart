@@ -25,7 +25,7 @@ class Body extends StatelessWidget {
 
                   child: Text(
                     // 'अभिनव संस्कृत अधिगम\n\n'
-                        ' git',
+                        ' Abhinav Sanskrit Adhigam',
                     textAlign: TextAlign.center,
                     style: GoogleFonts.shojumaru(
                         fontWeight: FontWeight.bold,
